@@ -1,2 +1,2 @@
 # Mytest
-hooktest3
+hooktest4
